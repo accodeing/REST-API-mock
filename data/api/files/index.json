@@ -1,0 +1,55 @@
+[
+  {
+    "id": "53ba16558e38",
+    "name": "overview.pdf",
+    "url": "/bin/files/diagram1.png",
+    "date": "2018-04-25"
+  },
+  {
+    "id": "5b656e16bf69",
+    "name": "Sammanfattning av kvartalet Q3 2017.pdf",
+    "url": "/bin/files/document1.png",
+    "date": "2018-04-21"
+  },
+  {
+    "id": "5f752fd64ee2",
+    "name": "Krav inför sprint 5.docx",
+    "url": "/bin/files/document2.png",
+    "date": "2018-04-17"
+  },
+  {
+    "id": "a7c4efe9c8b1",
+    "name": "Utvärdering av sprint 4.rtf",
+    "url": "/bin/files/document3.png",
+    "date": "2018-04-16"
+  },
+  {
+    "id": "3f17d7285078",
+    "name": "Relations diagram - API v1.0.png",
+    "url": "/bin/files/diagram2.png",
+    "date": "2018-04-16"
+  },
+  {
+    "id": "1329b610a5c6",
+    "name": "Call graphs.pdf",
+    "url": "/bin/files/diagram3.png",
+    "date": "2018-03-29"
+  },
+  {
+    "id": "cb1bf43db0d5",
+    "name": "Krav inför sprint 4.docx",
+    "url": "/bin/files/document4.png",
+    "date": "2018-03-22"
+  },
+  {
+    "id": "ebdc153dc9f5",
+    "name": "Utvärdering av sprint 3.rtf",
+    "url": "/bin/files/document5.png",
+    "date": "2018-03-21"
+  },
+  {
+    "id": "53bb822fc868",
+    "name": "demo.flv",
+    "date": "2018-03-02"
+  }
+]
